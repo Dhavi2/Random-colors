@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@1,300&family=Nanum+Gothic&family=Nunito:ital@1&family=Open+Sans&family=Rajdhani:wght@500&family=Roboto:wght@300&family=Ubuntu:wght@300;400;500;700&family=Work+Sans:ital,wght@1,300&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.main{
+    width:100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    
+
+}
+.container{
+    width:30rem;
+    padding:10px;
+    border-radius:10px;
+    font-size: 40px;
+   
+    text-align: center;
+    
+}
+button{
+    font-size:30px;
+    display: block;
+    width:100%;
+    background-color:#5BC0F8;
+    border:none;
+}
+#color-code{
+    color:white;
+}
